@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Prink</h2>
 
-Computer Science student in Thailand 🇹🇭 · Quick learner · Logical problem solver · Team organizer
+Computer Science student in Thailand · Quick learner · Logical problem solver · Team organizer
 
 I enjoy turning real problems into working systems, from analyzing requirements and use cases to building web apps.
 Currently **looking for an internship**.

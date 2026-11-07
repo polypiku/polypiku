@@ -34,11 +34,4 @@ Currently **looking for an internship**.
 
 ---
 
-### 📊 GitHub stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=polypiku&show_icons=true&hide_border=true&theme=transparent" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polypiku&layout=compact&hide_border=true&theme=transparent" />
-
----
-
 📫 Contact: [polypiku.09@gmail.com](mailto:polypiku.09@gmail.com)
